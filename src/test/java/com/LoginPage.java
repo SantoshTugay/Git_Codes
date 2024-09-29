@@ -11,10 +11,4 @@ public static int sum() {
 	System.out.println(res);
 	return res;
 }
-
-public static int sum1() {
-	int res1=1+1;
-	System.out.println(res1);
-	return res1;
-}
 }
